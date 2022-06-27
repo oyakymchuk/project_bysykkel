@@ -2,7 +2,6 @@
 !*_clear_rides_data.csv
 !*_duration_outliers-stolen_bikes.csv
 !*_stations.csv
-bergen_clear_rides_data.csv
 oslo_clear_rides_data.csv
 
 *.DS_Store
